@@ -13,7 +13,7 @@
     </head>
     
     <body>
-    <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Anomic Element Artiste <span class="glyphicon glyphicon-cutlery"></span></h1>
+    <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Box Message <span class="glyphicon glyphicon-cutlery"></span></h1>
         <div class="container admin">
             <div class="row">
                
