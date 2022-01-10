@@ -1,0 +1,103 @@
+
+
+ .contact h1{
+    color: white;
+    font-family: 'Raleway', 'sans-serif'; 
+    font-size: 2em;
+    text-align: center 
+
+}
+
+.contactfrom h2{
+  color: black;
+  font-family: 'Raleway', 'sans-serif'; 
+  font-size: 1.5em;
+  margin-bottom: 20px;
+ 
+  
+}
+
+body{
+    background-image: url(images/img1.jpg);
+    background-size: cover;
+    width: 100%;
+    background-position: unset;
+}
+
+.contactfrom{
+  padding: 50px 20px; 
+  background: white;
+  box-shadow: 5px 15px 50px white;
+  max-width: 400px;
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30%;
+}
+
+.contactfrom .inputboite input,
+.contactfrom .inputboite textarea{
+  width: 100%; 
+  border: 1px solid #555;
+  padding: 10px;
+  color: #111; 
+  outline:none;
+  font-size: 16px;
+  font-weight: 300;
+  resize: none; 
+  list-style: none;
+}
+
+.contactfrom .inputboite{
+  position: relative; 
+  width:100%;
+  margin-bottom: 20px; 
+}
+
+.contactfrom .inputboite input[type="submit"]{
+  font-size: 1em;
+  font-weight: 700;
+  color: #ffff; 
+  background: black;
+  display: inline-block;
+  cursor:pointer; 
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  outline: none;
+  border:none;
+  transition: 0.5s;
+  max-width: 130px;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+p{
+  color: white;
+  font-family: 'Raleway', 'sans-serif';   
+  font-size: 1.7em;
+}
+
+.btn {
+  background-color: white; 
+  border: none; 
+  color: black; 
+  padding: 1rem;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block; 
+  font-size: 1rem;
+  border-radius: 1rem; 
+  box-shadow: 5px 15px 50px black;
+  
+  margin-left: 40%;
+  
+  
+}
+
