@@ -47,6 +47,8 @@
                    
                   </tbody>
                 </table>
+                <br>
+                <a class="btn btn-primary" href="../"><span class="glyphicon glyphicon-arrow-left"></span> Retour</a>
             </div>
         </div>
     </body>
